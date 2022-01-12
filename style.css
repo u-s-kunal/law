@@ -113,7 +113,7 @@ a:hover{
     height: 121vh;
     color: white;
     text-align: center;
-    background-image: url(/potrait-lawyer.jpg);
+    background-image: url(potrait-lawyer.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-color: rgb(0, 0, 0);
@@ -173,7 +173,7 @@ button:hover{
     height: 100%;
     width: 40%;
     position: relative;
-    background-image: url(/lady-justice.jpg);
+    background-image: url(lady-justice.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: -80px 80px;
@@ -224,7 +224,7 @@ button:hover{
     height: 121vh;
     color: white;
     text-align: center;
-    background-image: url(/hammer.jpg);
+    background-image: url(hammer.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-color: rgb(0, 0, 0);
@@ -443,7 +443,7 @@ button:hover{
     background-color: tomato;
     color: white;
     padding: 100px 0px ;
-    background-image: url(/writting.jpg);
+    background-image: url(writting.jpg);
     background-size: cover;
     background-attachment: fixed;
 
@@ -496,7 +496,7 @@ button:hover{
     max-width: 100%;
     background-color: brown;
     text-align: center;
-    background-image: url(/shiny-night-city-min.jpg);
+    background-image: url(shiny-night-city-min.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -566,7 +566,7 @@ textarea{
 }
 
 .end{
-    /* background-color: blueviolet; */
+    
     height: 300px;
     display: flex;
     flex-direction: row;
